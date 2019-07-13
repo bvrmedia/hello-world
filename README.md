@@ -1,2 +1,5 @@
 # hello-world
-This is a test Repository
+
+Hi there!
+
+This is a testing text files for the new Respoitor.
